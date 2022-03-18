@@ -1,6 +1,6 @@
 # Asymmetrik-Mobile-Device-Keyboard
-This is my implementation of the Mobile Device Keyboard programming challenge by Asymmetrik.
-This solution was written in Python, using the tkinter GUI interface.
+An implementation of the Mobile Device Keyboard programming challenge by Asymmetrik.
+Written in Python, using the tkinter GUI interface.
 
 ## Interface Specification
 Candidate
